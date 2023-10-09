@@ -12,6 +12,7 @@
 
 ## Step 1: connect the node mcu with the usb-c cable to your computer
 This step is quite straight forward, it should look like this:
+
 <img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/connectionnodemcu.webp">
 
 ## Step 2: connect the node mcu to your GroveAI sensor
@@ -20,13 +21,15 @@ To understand how to connect these two boards I looked up the following source s
 https://www.14core.com/wiring-nodemcu-esp8266-12e-with-i2c-16x2-lcd-screen/
 Once it's connected it should look a little like this:
 <img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/Pinsinpins.jpg">
+And all together like this:
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/connected.jpg">
 
 
 ## Install GroveAI libraries
 Link: https://github.com/Seeed-Studio/Seeed_Arduino_GroveAI?search=1
 This is the link given to install the libraries. I don't get it, there is is some files with code, where is the download button??
 Update: after looking for a while i found it here:
-<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/">
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/finally.png">
 
 ### Library Installation
 Since we have downloaded the zip Library, open your Arduino IDE, click on Sketch > Include Library > Add .ZIP Library. Choose the zip file you just downloaded，and if the library install correct, you will see Library added to your libraries in the notice window. Which means the library is installed successfully.
