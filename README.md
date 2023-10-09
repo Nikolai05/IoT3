@@ -154,8 +154,10 @@ Here the error message when trying to verify the code:
 
 Sources:
 https://www.electronicwings.com/nodemcu/nodemcu-i2c-with-arduino-ide
+
 https://wiki.seeedstudio.com/Grove-Vision-AI-Module/
-(Oplossing?)
+
+(Solution?)
 https://www.14core.com/wiring-nodemcu-esp8266-12e-with-i2c-16x2-lcd-screen/
 
 
