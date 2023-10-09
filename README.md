@@ -20,8 +20,11 @@ Here is where I am doubtfull if I completed this step correctly, but based on th
 To understand how to connect these two boards I looked up the following source since there is no direct explanantion of how to properly connect the two:
 https://www.14core.com/wiring-nodemcu-esp8266-12e-with-i2c-16x2-lcd-screen/
 Once it's connected it should look a little like this:
+
 <img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/Pinsinpins.jpg">
+
 And all together like this:
+
 <img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/connected.jpg">
 
 
