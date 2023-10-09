@@ -10,6 +10,9 @@ Troubleshoot
 Hoe sluit ik grove Ai module aan Node MCU?
 welke kabels heb ik nodig?
 
+NodeMCU I2C with Arduino IDE
+Geverivierd en Geupload
+
 Seeed_Arduino_GroveAI.h staat niet in de library (tenminste niet op deze manier)
 
 
