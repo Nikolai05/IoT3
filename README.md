@@ -1,5 +1,15 @@
 # Grove - Vision AI Module
 ## How to connect Node MCU with Grove vision AI module
+### You will need the following:
+1. NodeMCU.
+2. Grove Vision AI Module.
+3. USBc cable.
+4. Connection cable between AIgrove and nodemcu.
+
+
+## Install GroveAI libraries
+Link: https://github.com/Seeed-Studio/Seeed_Arduino_GroveAI?search=1
+This is the link given to install the libraries. I don't get it, there is is some files with code, where is the download button??
 
 
 
