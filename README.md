@@ -2,26 +2,31 @@
 ## How to connect Node MCU with Grove vision AI module
 ### You will need the following:
 1. NodeMCU.
-2. Grove Vision AI Module.
-3. USBc cable.
-4. Connection cable between AIgrove and nodemcu.
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/">
+3. Grove Vision AI Module.
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/">
+5. USBc cable.
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/">
+7. Connection cable between AIgrove and nodemcu.
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/">
 
 ## Step 1: connect the node mcu with the usb-c cable to your computer
 This step is quite straight forward, it should look like this:
-
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/connectionnodemcu.webp">
 
 ## Step 2: connect the node mcu to your GroveAI sensor
 Here is where I am doubtfull if I completed this step correctly, but based on the working light I asume it's working.
 To understand how to connect these two boards I looked up the following source since there is no direct explanantion of how to properly connect the two:
 https://www.14core.com/wiring-nodemcu-esp8266-12e-with-i2c-16x2-lcd-screen/
 Once it's connected it should look a little like this:
-
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/Pinsinpins.jpg">
 
 
 ## Install GroveAI libraries
 Link: https://github.com/Seeed-Studio/Seeed_Arduino_GroveAI?search=1
 This is the link given to install the libraries. I don't get it, there is is some files with code, where is the download button??
 Update: after looking for a while i found it here:
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/">
 
 ### Library Installation
 Since we have downloaded the zip Library, open your Arduino IDE, click on Sketch > Include Library > Add .ZIP Library. Choose the zip file you just downloaded，and if the library install correct, you will see Library added to your libraries in the notice window. Which means the library is installed successfully.
