@@ -32,7 +32,7 @@ And all together like this:
 Link: https://github.com/Seeed-Studio/Seeed_Arduino_GroveAI?search=1
 This is the link given to install the libraries. I don't get it, there is is some files with code, where is the download button??
 Update: after looking for a while i found it here:
-<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/finally.png">
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/finally.PNG">
 
 ### Library Installation
 Since we have downloaded the zip Library, open your Arduino IDE, click on Sketch > Include Library > Add .ZIP Library. Choose the zip file you just downloaded，and if the library install correct, you will see Library added to your libraries in the notice window. Which means the library is installed successfully.
