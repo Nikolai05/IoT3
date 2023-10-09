@@ -34,7 +34,6 @@ Seeed_Arduino_GroveAI.h staat niet in de library (tenminste niet op deze manier
 
 Compilation error status exit 1 na het uploaden van deze code:
 
-((( 
 #include "Seeed_Arduino_GroveAI.h"
 #include <Wire.h>
 
@@ -121,7 +120,6 @@ void loop()
     state == 0;
   }
 }
-)))
 
 
 
