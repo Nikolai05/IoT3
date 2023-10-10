@@ -2,11 +2,11 @@
 ## How to connect Node MCU with Grove vision AI module
 ### You will need the following:
 1. NodeMCU.
-<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/">
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/NodeMcu.jpg">
 3. Grove Vision AI Module.
-<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/">
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/sensor.jpg">
 5. USBc cable.
-<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/">
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/usbc.avif">
 7. Connection cable between AIgrove and nodemcu.
 <img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/">
 
