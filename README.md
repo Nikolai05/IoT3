@@ -38,7 +38,7 @@ Update: after looking for a while i found it here:
 ### Library Installation
 Since we have downloaded the zip Library, open your Arduino IDE, click on Sketch > Include Library > Add .ZIP Library. Choose the zip file you just downloaded，and if the library install correct, you will see Library added to your libraries in the notice window. Which means the library is installed successfully.
 
-<img width="300" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/addlibrary.png">
+<img width="198" alt=image src="https://github.com/Nikolai05/IoT3/blob/main/addlibrary.png">
 
 
 
